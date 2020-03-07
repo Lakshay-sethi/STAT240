@@ -2,8 +2,7 @@
 A twitter bot that outputs the bus routes that were late / cancelled on a given data and time.
 
 ## Build status
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+[![Build Status](https://travis-ci.org/Lakshay-sethi/STAT240.svg?branch=master)](https://travis-ci.org/Lakshay-sethi/STAT240)
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
