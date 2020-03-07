@@ -1,0 +1,6 @@
+Imports: 
+    twitteR
+    stringr
+Remotes:  
+    r-lib/twitteR
+    r-lib/stringr
