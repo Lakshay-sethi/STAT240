@@ -8,7 +8,15 @@ A twitter bot that outputs the bus routes that were late / cancelled on a given 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
- ## Interface
+## Pre-requisites 
+1. Installation of R (Version 3.3.1) 
+2. Twitter Authentication to access API
+
+## Dependencies
+- twitteR 
+- stringr 
+ 
+## Interface
 
 ### Parameters
 
@@ -30,6 +38,8 @@ disruptions$start
 # [1] "401" "406"
 
 ``` 
+
+
 ## Tech/framework used
 <b>Built with</b>
 - [R](https://www.r-project.org/about.html)
